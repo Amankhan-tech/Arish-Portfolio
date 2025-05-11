@@ -1,0 +1,79 @@
+@import "../../vars.css";
+
+.container {
+  color: var(--color-text);
+  margin-top: 79px;
+  margin-left: 10%;
+  margin-right: 10%;
+}
+
+.title {
+    color: var(--color-text);
+    font-size: 35px;
+    font-weight: 700;
+    letter-spacing: 1.75px;
+    text-transform: uppercase;
+}
+
+.skills {
+  margin-top: 35px;
+  width: 100%;
+  max-width: 900px;
+  margin-left: auto;
+  margin-right: auto;
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(120px, 1fr)); /* Responsive 4 per row */
+  justify-items: center;  /* Centers items in each cell */
+  gap: 37px;
+}
+
+
+
+.skill {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 11px;
+}
+
+.skillImageContainer {
+    background-color: var(--color-secondary);
+    border-radius: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 120px;
+    height: 120px;
+}
+
+.skillImageContainer img {
+    width: 70px;
+    height: 70px;
+}
+
+.skill p {
+    font-size: 25px;
+    font-family: var(--font--roboto);
+    font-weight: 500;
+}
+
+@media screen and (max-width: 830px) {
+  .skills {
+    grid-template-columns: repeat(2, 1fr);
+    gap: 24px;
+  }
+
+  .skillImageContainer {
+    width: 90px;
+    height: 90px;
+  }
+
+  .skillImageContainer img {
+    width: 50px;
+    height: 50px;
+  }
+
+  .skill p {
+    font-size: 18px;
+  }
+}

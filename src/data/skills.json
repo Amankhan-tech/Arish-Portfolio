@@ -1,0 +1,43 @@
+[
+  {
+    "title": "BigQuery",
+    "imageSrc": "skills/bigquery.png"
+  },
+  {
+    "title": "Excel",
+    "imageSrc": "skills/excel.png"
+  },
+  {
+    "title": "Matplotlib",
+    "imageSrc": "skills/matplotlib.png"
+  },
+  {
+    "title": "MongoDB",
+    "imageSrc": "skills/mongodb.png"
+  },
+  {
+    "title": "MySQL",
+    "imageSrc": "skills/mysql.png"
+  },
+  {
+    "title": "Numpy",
+    "imageSrc": "skills/numpy.png"
+  },
+  {
+    "title": "Pandas",
+    "imageSrc": "skills/pandas.png"
+  },
+  {
+    "title": "Python",
+    "imageSrc": "skills/python.png"
+  },
+
+  {
+    "title": "Seaborn",
+    "imageSrc": "skills/seaborn.png"
+  },
+  {
+    "title": "Tableau",
+    "imageSrc": "skills/tableau.png"
+  }
+]
