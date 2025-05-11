@@ -15,7 +15,7 @@ const imageMap = {
   Matplotlib: matplotlib,
   MongoDB: mongodb,
   MySQL: mysql,
-  Numpy: numpy,
+  NumPy: numpy,
   Pandas: pandas,
   Python: python,      // Note: "Phython" is probably a typo in your JSON — should be "Python"
   Seaborn: seaborn,

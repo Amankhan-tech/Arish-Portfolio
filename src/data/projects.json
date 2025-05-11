@@ -1,26 +1,23 @@
 [
   {
-    "title": "Project A",
-    "imageSrc": "projects/project.png",
-    "description": "This is a project made to learn the latest languages by building an app.",
-    "skills": ["React", "Express", "Node"],
-    "demo": "https://www.example.com",
-    "source": "https://www.github.com"
+    "title": "HR Dashboard",
+    "imageSrc": "projects/tableau2.jpeg",
+    "description": "Developed an interactive HR dashboard in Tableau to analyze hiring trends, workforce demographics, and salary patterns—applying analytical thinking to uncover insights that support strategic HR decisions.",
+    "skills": ["Tableau"],
+    "source": "https://public.tableau.com/app/profile/arish.wasim/viz/HR_Dashboard_17468586089110/HRDetails"
   },
   {
-    "title": "Project B",
-    "imageSrc": "projects/project.png",
-    "description": "This is a project made to learn the latest languages by building an app.",
-    "skills": ["React", "Express", "Node", "Sass"],
-    "demo": "https://www.example.com",
-    "source": "https://www.github.com"
+    "title": "Netflix Case Study",
+    "imageSrc": "projects/netflix.jpeg",
+    "description": "Conducted an exploratory data analysis using Python to uncover viewing trends across genres, release years, and user ratings—leveraging analytical thinking to identify patterns in Netflix's content strategy.",
+    "skills": ["NumPy", "Panda", "Matplotlib", "Seaborn", "Python"],
+    "source": "https://github.com/wasimarish/Target_DataAnalyst/blob/main/Netflix_Case.ipynb"
   },
   {
-    "title": "Project C",
-    "imageSrc": "projects/project.png",
-    "description": "This is a project made to learn the latest languages by building an app.",
-    "skills": ["React", "Express", "Node"],
-    "demo": "https://www.example.com",
-    "source": "https://www.github.com"
+    "title": "SQL Business Case Study",
+    "imageSrc": "projects/sql.jpg",
+    "description": "Analyzed retail sales data using advanced SQL queries to extract key performance metrics, identify customer patterns, and generate insights to inform data-driven marketing decisions.",
+    "skills": ["MySQL"],
+    "source": "https://github.com/wasimarish/Target_DataAnalyst/blob/main/TARGET_-_SQL_Business_Case_Study.pdf"
   }
 ]
