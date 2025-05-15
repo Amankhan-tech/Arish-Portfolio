@@ -14,7 +14,7 @@ const Hero = () => {
           field.
         </p>
         {/* TODO: Change the email address to Arish Mail. */}
-        <a href="mailto:arishwasim@gamil.com" className={styles.contactBtn}>
+        <a href="mailto:arishwasim123@gmail.com" className={styles.contactBtn}>
           Contact Me
         </a>
       </div>
