@@ -19,5 +19,19 @@
     "description": "Analyzed retail sales data using advanced SQL queries to extract key performance metrics, identify customer patterns, and generate insights to inform data-driven marketing decisions.",
     "skills": ["MySQL"],
     "source": "https://github.com/wasimarish/Target_DataAnalyst/blob/main/TARGET_-_SQL_Business_Case_Study.pdf"
+  },
+  {
+    "title": "Aerofit",
+    "imageSrc": "projects/aerofit.png",
+    "description": "Analyzed Aerofit customer data to profile treadmill buyers using descriptive stats and probability. Identified patterns in usage, income, fitness, and demographics to support targeted product recommendations and data-driven marketing.",
+    "skills": ["NumPy", "Panda", "Matplotlib", "Seaborn", "Python"],
+    "source": "https://github.com/wasimarish/Target_DataAnalyst/blob/main/Aerofit.ipynb"
+  },
+  {
+    "title": "Hospital Management System",
+    "imageSrc": "projects/hospital.jpg",
+    "description": "Built and queried a relational SQL database for hospital management, covering patients, staff, treatments, and billing. Analyzed demographics and department workloads to deliver insights that support efficient healthcare planning and resource allocation.",
+    "skills": ["MySQL"],
+    "source": "https://github.com/wasimarish/Target_DataAnalyst/blob/main/Hospital_Management_Analysis.pdf"
   }
 ]
