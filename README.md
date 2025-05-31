@@ -1,12 +1,68 @@
-# React + Vite
+# Arish Wasim – Data Analyst Portfolio
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This is a personal portfolio website built for **Arish Wasim**, a data analyst passionate about turning raw data into meaningful business insights.
 
-Currently, two official plugins are available:
+The website showcases Arish's skills, projects, tools, and experience in a modern, responsive, and interactive interface.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🚀 Live Demo
 
-## Expanding the ESLint configuration
+🌐 [View Live Site](https://arishwasim-portfolio.netlify.app/)  
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+---
+
+## 📌 Features
+
+- ✅ Fully responsive design (desktop + mobile)
+- ✅ Clean layout with component-based React structure
+- ✅ Skills and tools animated with auto-scroll effects
+- ✅ Projects section with descriptions and live/source links
+- ✅ Contact section with accessible email and social profiles
+- ✅ Smooth navigation with scroll-based linking
+
+---
+
+## 🧱 Tech Stack
+
+- **Frontend:** React.js (with Vite)
+- **Styling:** CSS Modules
+- **Data Management:** JSON files (for skills & projects)
+- **Deployment:** Netlify
+
+---
+
+## 📁 Folder Structure
+
+src/
+├── assets/ → Icons and images
+├── components/ → Reusable components (Navbar, Hero, Projects, etc.)
+├── data/ → JSON files for skills and project info
+├── utils/ → Utility functions (image loader, etc.)
+├── App.jsx → Main app component
+└── index.css → Global styles
+
+---
+
+## 🧠 Project Motivation
+
+This portfolio was created to help Arish showcase his analytical capabilities, technical toolkit, and data storytelling through real-world projects in SQL, Tableau, Python, and more.
+
+---
+
+## 📬 Contact Arish
+
+- 📧 Email: arishwasim123@gmail.com  
+- 💼 [LinkedIn](https://www.linkedin.com/in/arish-wasim-a09b5123a/)  
+- 💻 [GitHub](https://github.com/wasimarish)
+
+---
+
+## 📣 Acknowledgment
+
+This project was built by Me as a portfolio for Arish Wasim.  
+If you'd like a similar site or have feedback, feel free to reach out.
+
+---
+
+## 📄 License
+
+This project is open-source and free to use. Attribution appreciated.
