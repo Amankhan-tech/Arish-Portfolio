@@ -7,18 +7,18 @@
     "source": "https://public.tableau.com/app/profile/arish.wasim/viz/HR_Dashboard_17468586089110/HRDetails"
   },
   {
+    "title": "Sales Dashboard",
+    "imageSrc": "projects/salesDashboard.png",
+    "description": "Built an interactive Tableau dashboard to analyze sales by region, category, and time. Features KPI summaries, trend lines, product analysis, and geographic maps — enabling business users to track performance and identify revenue opportunities.",
+    "skills": ["Tableau"],
+    "source": "https://public.tableau.com/app/profile/arish.wasim/viz/SALESDashboard_17488037283700/Dashboard1"
+  },
+  {
     "title": "Netflix Case Study",
     "imageSrc": "projects/netflix.jpeg",
     "description": "Conducted an exploratory data analysis using Python to uncover viewing trends across genres, release years, and user ratings—leveraging analytical thinking to identify patterns in Netflix's content strategy.",
     "skills": ["NumPy", "Panda", "Matplotlib", "Seaborn", "Python"],
     "source": "https://github.com/wasimarish/Target_DataAnalyst/blob/main/Netflix_Case.ipynb"
-  },
-  {
-    "title": "SQL Business Case Study",
-    "imageSrc": "projects/sql.jpg",
-    "description": "Analyzed retail sales data using advanced SQL queries to extract key performance metrics, identify customer patterns, and generate insights to inform data-driven marketing decisions.",
-    "skills": ["MySQL"],
-    "source": "https://github.com/wasimarish/Target_DataAnalyst/blob/main/TARGET_-_SQL_Business_Case_Study.pdf"
   },
   {
     "title": "Aerofit",
@@ -28,10 +28,31 @@
     "source": "https://github.com/wasimarish/Target_DataAnalyst/blob/main/Aerofit.ipynb"
   },
   {
-    "title": "Hospital Management System",
+    "title": "SQL Business Case Study",
+    "imageSrc": "projects/sql.jpg",
+    "description": "Analyzed retail sales data using advanced SQL queries to extract key performance metrics, identify customer patterns, and generate insights to inform data-driven marketing decisions.",
+    "skills": ["MySQL"],
+    "source": "https://github.com/wasimarish/Target_DataAnalyst/blob/main/TARGET_-_SQL_Business_Case_Study.pdf"
+  },
+  {
+    "title": "Hospital Management",
     "imageSrc": "projects/hospital.jpg",
     "description": "Built and queried a relational SQL database for hospital management, covering patients, staff, treatments, and billing. Analyzed demographics and department workloads to deliver insights that support efficient healthcare planning and resource allocation.",
     "skills": ["MySQL"],
     "source": "https://github.com/wasimarish/Target_DataAnalyst/blob/main/Hospital_Management_Analysis.pdf"
+  },
+  {
+    "title": "TATA-Forage",
+    "imageSrc": "projects/tata.jpg",
+    "description": "Performed exploratory data analysis on a financial dataset to support delinquency risk modeling. Handled missing data, created customer segments, and identified early risk indicators using credit behavior, income, and loan metrics.",
+    "skills": ["NumPy", "Panda", "Matplotlib", "Seaborn", "Python"],
+    "source": "https://github.com/wasimarish/Target_DataAnalyst/blob/main/TATA_Forage.ipynb"
+  },
+  {
+    "title": "Root Cause Analysis",
+    "imageSrc": "projects/rootCause.jpeg",
+    "description": "Analyzed Uber ride data to identify peak-time supply-demand gaps using time-based EDA. Categorized trip statuses, built time-slot segments, and uncovered cancellation and no-availability trends — enabling actionable insights for better cab allocation.",
+    "skills": ["NumPy", "Panda", "Matplotlib", "Seaborn", "Python"],
+    "source": "https://github.com/wasimarish/Target_DataAnalyst/blob/main/Root%20Cause%20Analysis.ipynb"
   }
 ]

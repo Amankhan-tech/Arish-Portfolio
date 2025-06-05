@@ -17,9 +17,9 @@ const imageMap = {
   MySQL: mysql,
   NumPy: numpy,
   Pandas: pandas,
-  Python: python,      // Note: "Phython" is probably a typo in your JSON — should be "Python"
+  Python: python,      
   Seaborn: seaborn,
-  Tableau: tabealu      // Also seems to be a typo — probably meant "Tableau"
+  Tableau: tabealu      
 };
 
 export default imageMap;
