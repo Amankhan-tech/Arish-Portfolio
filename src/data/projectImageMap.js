@@ -6,6 +6,7 @@ import hospital from '../assets/projects/hospital.jpg';
 import tata from '../assets/projects/tata.jpg';
 import salesDashboard from '../assets/projects/salesDashboard.png';
 import rootCause from '../assets/projects/rootCause.jpeg';
+import JamboreeAdmission from '../assets/projects/JamboreeAdmission.jpg';
 
 const projectImageMap = {
   "projects/tableau2.jpeg": tableau,
@@ -16,6 +17,7 @@ const projectImageMap = {
   "projects/tata.jpg": tata,
   "projects/salesDashboard.png": salesDashboard,
   "projects/rootCause.jpeg": rootCause,
+  "projects/JamboreeAdmission.jpg": JamboreeAdmission
 };
 
 export default projectImageMap;

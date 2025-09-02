@@ -14,6 +14,13 @@
     "source": "https://public.tableau.com/app/profile/arish.wasim/viz/SALESDashboard_17488037283700/Dashboard1"
   },
   {
+  "title": "Admission Prediction",
+  "imageSrc": "projects/JamboreeAdmission.jpg",
+  "description": "Built a machine learning model to predict graduate admission chances using GRE, TOEFL, CGPA, SOP, LOR, research, and university rating. Applied Linear, Polynomial, Ridge, and Lasso regression — with Ridge Regression giving the best performance and stability.",
+  "skills": ["Python", "Pandas", "NumPy", "Matplotlib", "Seaborn", "Scikit-learn"],
+  "source": "https://github.com/wasimarish/Jamboree-EDA-Linear-and-Polynomial-regression?tab=readme-ov-file"
+  },
+  {
     "title": "Netflix Case Study",
     "imageSrc": "projects/netflix.jpeg",
     "description": "Conducted an exploratory data analysis using Python to uncover viewing trends across genres, release years, and user ratings—leveraging analytical thinking to identify patterns in Netflix's content strategy.",
